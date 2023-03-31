@@ -8,7 +8,7 @@ import React from 'react'
 function Category() {
   return (
     <List>
-    <SLink  to={"/cuisine/Italian"}>
+    <SLink to={"/cuisine/Italian"}>
         <FaPizzaSlice />
         <h4>Italian</h4>
     </SLink>
