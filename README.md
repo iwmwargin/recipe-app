@@ -5,7 +5,6 @@
   * [User Story](#user-story)
   * [Languages](#languages)
   * [Link to URL](#live-url-link)
-  * [Testing](#testing)
   * [Photos](#photos)
   * [Contributors](#contributors)
   * [License](#license)
@@ -38,7 +37,7 @@
   ## Photos
   **_Image of Site_**:
   <br>
-  <img src="https://github.com/iwmwargin/budget-tracker-hawk/blob/main/images/Budget%20Hawk.png">
+  <img src="https://github.com/iwmwargin/recipe-app/blob/main/Recipe-App.png">
   <br>
  
   
