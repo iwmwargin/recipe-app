@@ -32,7 +32,7 @@
    <br>
 
   ## Live URL Link
-  https://iwmwargin.github.io/
+  https://iwmwargin.github.io/recipe-app/
    
   ## Photos
   **_Image of Site_**:
